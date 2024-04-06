@@ -146,7 +146,7 @@
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_BCD0F212AC6340B9B9009F78A66382DD"
             {
-            "DefaultLocation" = "8:[AppDataFolder]\\SEGGER\\JlinkDevices\\[ProductName]"
+            "DefaultLocation" = "8:[AppDataFolder]\\SEGGER\\JlinkDevices\\[Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
