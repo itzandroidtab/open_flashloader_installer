@@ -6,7 +6,7 @@ This project allows you to create a custom installer for your open flash loader 
 * Visual studio
 * The [Microsoft Visual Studio Installer Projects](https://marketplace.visualstudio.com/items?itemName=VisualStudioClient.MicrosoftVisualStudio2022InstallerProjects) plugin
 * J-link >= V7.80
-* Open flash loader executable
+* Open flash loader executable (can be created using the [OFL template](https://github.com/itzandroidtab/open_flashloader_template))
 
 ## How to create a device xml file
 SEGGER J-Link uses xml files to add support for external loaders. The xml file configures the follwing:
