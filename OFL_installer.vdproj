@@ -171,9 +171,9 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:OFL_chip"
+        "ProductName" = "8:chip_family"
         "ProductCode" = "8:{46DDC575-8B69-4315-B4FB-A9AA8CA96A01}"
-        "PackageCode" = "8:{5BD078CB-D8C3-40C3-821F-9555F8307549}"
+        "PackageCode" = "8:{2C7FC8FA-8537-4BD0-81B2-FB39FF772931}"
         "UpgradeCode" = "8:{0A69DC57-1951-4DB6-9264-21E940A300BB}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
