@@ -1,0 +1,6 @@
+# folders to exclude
+.vs/
+Debug/
+
+# files to exclude
+*.htm
