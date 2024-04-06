@@ -1,6 +1,7 @@
 # folders to exclude
 .vs/
 Debug/
+Release/
 
 # files to exclude
 *.htm
