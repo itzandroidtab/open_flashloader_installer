@@ -1,5 +1,5 @@
 # Open flash loader installer (for SEGGER J-Link)
-This project allows you to create a custom installer for your open flash loader in 4 steps. This allows you to distribute a custom installer that automaticly installs the flash loaders in the correct location without user intervention.
+This project allows you to create a custom installer for your open flash loader in 3 steps. This allows you to distribute a custom installer that automaticly installs the flash loaders in the correct location without user intervention.
 
 ## Prerequisites
 * Windows (for now)
@@ -8,7 +8,7 @@ This project allows you to create a custom installer for your open flash loader 
 * J-link >= V7.80
 * Open flash loader executable (can be created using the [OFL template](https://github.com/itzandroidtab/open_flashloader_template))
 
-## How to create a device xml file
+## Create a flash loader xml file
 SEGGER J-Link uses xml files to add support for external loaders. The xml file configures the follwing:
 * The target Microcontroller for the loader
 * The address the memory is located
@@ -34,8 +34,9 @@ How to configure the project to include your open flash loaders
 
 1. Open the visual studio project. (The project should open on the "File System" page. If it does not right click on the project name and "view" -> "File System")
 2. Right click "Application Folder" -> "Add" -> "File"
-3. Repeat step 2 for as many files as you want to add (make sure to at least add one xml file)
-4. Build project
+    * Add all the flash loader executables
+    * Add flash loader xml 
+3. Build project
 
 Optional steps if you want to change the manufacturer and productname (these steps should be done before building):
 1. Click on the project name
