@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OFL_installer", "OFL_installer.vdproj", "{2A0D382A-27D9-4D7C-AFB0-F706977B0E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+		Description = Installer for OFL flash loaders for SEGGER J-Link
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A0D382A-27D9-4D7C-AFB0-F706977B0E3C}.Debug|Default.ActiveCfg = Debug
+		{2A0D382A-27D9-4D7C-AFB0-F706977B0E3C}.Debug|Default.Build.0 = Debug
+		{2A0D382A-27D9-4D7C-AFB0-F706977B0E3C}.Release|Default.ActiveCfg = Release
+		{2A0D382A-27D9-4D7C-AFB0-F706977B0E3C}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {377C3E23-E20E-4606-8B06-08EC68B23633}
+	EndGlobalSection
+EndGlobal
