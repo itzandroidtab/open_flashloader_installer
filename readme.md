@@ -47,7 +47,9 @@ Example with 1 flash loader and a xml file
 ![image](https://github.com/itzandroidtab/open_flashloader_installer/assets/9889898/5f2b59df-c6fc-409a-ba8b-6a80c4cb2c67)
 
 ## Installer
-Example for the LPC175x SPI NOR flash open flash loader. Automaticly selects the default location J-Link uses for flash loaders
+Example for the LPC175x SPI NOR flash open flash loader. Automaticly selects the default location J-Link uses for flash loaders.
+
+
 ![image](https://github.com/itzandroidtab/open_flashloader_installer/assets/9889898/940a95b5-58c0-4a27-9160-5be183f42aec)
 ![image](https://github.com/itzandroidtab/open_flashloader_installer/assets/9889898/75fb4e3b-a250-404b-87f9-094d0b22c9cb)
 
